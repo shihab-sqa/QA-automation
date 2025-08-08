@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Bangladesh (880)</name>
+   <tag></tag>
+   <elementGuidId>dde4fe16-9fbe-4bb0-9162-254076ff1131</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc_select_1_list_3']/div/span/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Bangladesh (+880)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ee52c06d-2720-46fa-9563-c11b846d1189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bangladesh (+880)</value>
+      <webElementGuid>80973bf6-acda-4d58-9058-b7ad589fdf50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc_select_1_list_3&quot;)/div[@class=&quot;ant-select-item-option-content&quot;]/span[@class=&quot;text-textBaseDarkLight dark:text-textBaseDarkDark&quot;]/div[@class=&quot;flex justify-start items-center py-2.5 gap-2 w-max&quot;]/p[1]</value>
+      <webElementGuid>0ffbd764-be05-4cb6-9999-184da6aba8ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc_select_1_list_3']/div/span/div/p</value>
+      <webElementGuid>7afb13fd-f0dc-4b8d-9e53-c666964e374a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacation Rental'])[1]/following::p[10]</value>
+      <webElementGuid>561758e4-6b4b-42c7-a6b3-19d60c96f9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotel'])[1]/following::p[10]</value>
+      <webElementGuid>2373c32d-3838-4d7e-bff4-be25470c1933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bangladesh']/parent::*</value>
+      <webElementGuid>74279f16-d681-49c8-bc27-6bde407d26e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[4]/div/span/div/p</value>
+      <webElementGuid>e61bc287-57b2-45f8-a415-f04cf6a374d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bangladesh (+880)' or . = 'Bangladesh (+880)')]</value>
+      <webElementGuid>bec5703f-3e14-4e9a-8c9f-471c87d154e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

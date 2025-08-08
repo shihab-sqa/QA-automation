@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_concat(Who, , s Checking In)_ant-inpu_9d2702_1_2_3_4_5_6_7_8_9_10_11</name>
+   <tag></tag>
+   <elementGuidId>e684b781-439b-45a1-ab62-c5fc865eac06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Hasa']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Last Name *&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9db4e46d-7409-49d4-9288-32f545430f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Last Name *</value>
+      <webElementGuid>d07ae144-ec9d-4844-9bc8-4b2eee0cc3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input css-1lo6wk3 ant-input-outlined ps-3 py-4 text-textBaseDarkLight dark:text-textBaseDarkDark placeholder:!text-textBaseGraymediumLight dark:placeholder:!text-textBaseGraymediumDark</value>
+      <webElementGuid>2c40e0b5-0f5d-4aeb-a9f2-33d24632360e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>40a63118-83c7-4ab2-92fe-82d9e16c7d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Hasa</value>
+      <webElementGuid>719ed752-099e-4499-8c35-032833a2857c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tailwind-core&quot;)/body[@class=&quot;__className_a37cae layout_customScrollbar__E0DvH !w-full&quot;]/div[@class=&quot;css-1to9m9p ant-app&quot;]/main[@class=&quot;bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark min-h-full min-w-full&quot;]/section[@class=&quot;min-h-screen&quot;]/section[@class=&quot;w-full h-fit min-h-screen bg-surfaceBaseBg1Light dark:bg-surfaceBaseBg1Dark&quot;]/section[@class=&quot;container mt-10 px-4 xl:px-0 mb-4 lg:mb-0&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;col-span-12 lg:col-span-9&quot;]/div[3]/div[1]/div[@class=&quot;ant-collapse ant-collapse-icon-position-start bg-transparent border-0 css-nn18zd&quot;]/div[@class=&quot;ant-collapse-item ant-collapse-item-active !border !border-borderBaseGreylightLight dark:!border-borderBaseGreylightDark overflow-hidden rounded-lg  [&amp;_.ant-collapse-content-box]:p-0 my-4&quot;]/div[@class=&quot;ant-collapse-content ant-collapse-content-active&quot;]/div[@class=&quot;ant-collapse-content-box&quot;]/form[@class=&quot;bg-surfaceBaseBg1Light dark:bg-surfaceBaseBg1Dark&quot;]/section[@class=&quot;flex p-4 flex-col items-start gap-4 self-stretch&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;grid gap-3 grid-cols-1 md:grid-cols-3&quot;]/section[3]/input[@class=&quot;ant-input css-1lo6wk3 ant-input-outlined ps-3 py-4 text-textBaseDarkLight dark:text-textBaseDarkDark placeholder:!text-textBaseGraymediumLight dark:placeholder:!text-textBaseGraymediumDark&quot;]</value>
+      <webElementGuid>f14c076d-7c3f-4fe8-a1f7-34902ca1a0c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Hasa']</value>
+      <webElementGuid>33f4a9c7-ed5d-4745-9d00-c7dc7fa9ab5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='tailwind-core']/body/div/main/section/section/section[2]/div/div/div[3]/div/div/div[3]/div[2]/div/form/section/div/div/section[3]/input</value>
+      <webElementGuid>835463f2-8f4c-4799-912f-207c1dbaf797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/input</value>
+      <webElementGuid>d0b6b741-7263-4878-858b-b2ffca5d8079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Last Name *' and @type = 'text']</value>
+      <webElementGuid>7138e5d1-5473-48db-80a9-3672e079b1ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

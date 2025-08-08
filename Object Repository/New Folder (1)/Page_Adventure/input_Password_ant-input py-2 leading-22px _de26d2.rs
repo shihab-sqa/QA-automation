@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Password_ant-input py-2 leading-22px _de26d2</name>
+   <tag></tag>
+   <elementGuidId>57e7e7c8-f452-4ddc-8575-f4933211b3ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>09c0c55d-973e-4115-9cc2-85e1d29c5b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Password</value>
+      <webElementGuid>898bc111-0198-4c21-978c-510b1fae8bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input py-2 leading-[22px] text-sm font-normal text-textBaseDarkLight dark:text-textBaseDarkDark bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark font-bold css-4dl7g6</value>
+      <webElementGuid>c704f8f9-3b8c-432f-b4a1-01646ef07639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>0549e90c-38c2-42b3-82e5-20cad621de70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tailwind-core&quot;)/body[@class=&quot;__className_a37cae layout_customScrollbar__E0DvH !w-full&quot;]/div[@class=&quot;css-1to9m9p ant-app&quot;]/main[@class=&quot;bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark min-h-full min-w-full&quot;]/section[@class=&quot;h-screen grid grid-cols-12 bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark&quot;]/section[@class=&quot;col-span-12 md:col-span-7 max-w-full md:max-w-[403px] my-auto px-8 md:px-0 mx-auto md:mx-12 lg:ms-24&quot;]/form[1]/section[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/section[1]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused css-4dl7g6 ant-input-outlined ant-input-password [&amp;_.ant-input-password-icon]:flex [&amp;_.ant-input-password-icon]:justify-center [&amp;_.ant-input-password-icon]:items-center rounded-md placeholder:text-textBaseGraymediumLight placeholder:dark:text-textBaseGraymediumDark placeholder:font-normal bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark mt-2&quot;]/input[@class=&quot;ant-input py-2 leading-[22px] text-sm font-normal text-textBaseDarkLight dark:text-textBaseDarkDark bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark font-bold css-4dl7g6&quot;]</value>
+      <webElementGuid>109dcd6e-1a47-461e-bbed-6451052eb0ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='password']</value>
+      <webElementGuid>2963fb5e-3400-42ec-a06b-a33bcde0c98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='tailwind-core']/body/div/main/section/section/form/section/div/section/span/input</value>
+      <webElementGuid>23e59f31-f503-4cac-a797-34e50345de2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/input</value>
+      <webElementGuid>1d9cd0d6-cbe3-4507-a813-7f0e408569f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter Password' and @type = 'password']</value>
+      <webElementGuid>30caef6c-d324-4986-bd80-5f581eebf95c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

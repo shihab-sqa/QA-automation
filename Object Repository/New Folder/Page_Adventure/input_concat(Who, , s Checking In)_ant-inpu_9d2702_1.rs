@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_concat(Who, , s Checking In)_ant-inpu_9d2702_1</name>
+   <tag></tag>
+   <elementGuidId>a7d6db8c-002b-4825-abb6-29992b179eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='s']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;First Name *&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>558d3884-3af8-4d41-a3cc-fe627eeb6536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>First Name *</value>
+      <webElementGuid>43576fd5-d958-4752-8649-0acbf211d47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input css-1lo6wk3 ant-input-outlined ps-3 py-4 text-textBaseDarkLight dark:text-textBaseDarkDark placeholder:!text-textBaseGraymediumLight dark:placeholder:!text-textBaseGraymediumDark</value>
+      <webElementGuid>1d082b9a-427f-46c5-bed8-e7c8543865e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fe4472a0-1d64-4dbd-b078-36a2af865ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>s</value>
+      <webElementGuid>5df144f7-5f9b-4bf9-9301-5f6394c3c170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tailwind-core&quot;)/body[@class=&quot;__className_a37cae layout_customScrollbar__E0DvH !w-full&quot;]/div[@class=&quot;css-1to9m9p ant-app&quot;]/main[@class=&quot;bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark min-h-full min-w-full&quot;]/section[@class=&quot;min-h-screen&quot;]/section[@class=&quot;w-full h-fit min-h-screen bg-surfaceBaseBg1Light dark:bg-surfaceBaseBg1Dark&quot;]/section[@class=&quot;container mt-10 px-4 xl:px-0 mb-4 lg:mb-0&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;col-span-12 lg:col-span-9&quot;]/div[3]/div[1]/div[@class=&quot;ant-collapse ant-collapse-icon-position-start bg-transparent border-0 css-nn18zd&quot;]/div[@class=&quot;ant-collapse-item ant-collapse-item-active !border !border-borderBaseGreylightLight dark:!border-borderBaseGreylightDark overflow-hidden rounded-lg  [&amp;_.ant-collapse-content-box]:p-0 my-4&quot;]/div[@class=&quot;ant-collapse-content ant-collapse-content-active&quot;]/div[@class=&quot;ant-collapse-content-box&quot;]/form[@class=&quot;bg-surfaceBaseBg1Light dark:bg-surfaceBaseBg1Dark&quot;]/section[@class=&quot;flex p-4 flex-col items-start gap-4 self-stretch&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;grid gap-3 grid-cols-1 md:grid-cols-3&quot;]/section[1]/input[@class=&quot;ant-input css-1lo6wk3 ant-input-outlined ps-3 py-4 text-textBaseDarkLight dark:text-textBaseDarkDark placeholder:!text-textBaseGraymediumLight dark:placeholder:!text-textBaseGraymediumDark&quot;]</value>
+      <webElementGuid>f3f3da99-3bec-4770-a6a7-301f2e55c65f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='s']</value>
+      <webElementGuid>3e827a39-5e8a-4ca1-8ba8-04f1a5c1d755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='tailwind-core']/body/div/main/section/section/section[2]/div/div/div[3]/div/div/div[3]/div[2]/div/form/section/div/div/section/input</value>
+      <webElementGuid>2fdf7a77-fd95-4c04-809d-a810b5287d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>73f85aaf-ef5b-44aa-9819-b606c87246c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'First Name *' and @type = 'text']</value>
+      <webElementGuid>f85f8a2f-7cbd-4add-8541-c511bd1e01b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
