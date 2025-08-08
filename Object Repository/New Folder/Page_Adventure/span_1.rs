@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>f156a979-0679-401d-afa2-f99821ebe99d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-select-selection-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='tailwind-core']/body/div/main/section/section/section[2]/div/div/div[3]/div/div/div[2]/div/span/div/section/form/section/div[2]/section/span/span/span/div/div/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;phx-select&quot;] span >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da46fffb-483f-463f-a5b9-3c008e1174d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>3dda2609-93cf-46ca-bbbf-23cfe823a1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+1</value>
+      <webElementGuid>a5cc6930-6e9e-45b7-a140-82fdaf715919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tailwind-core&quot;)/body[@class=&quot;__className_a37cae layout_customScrollbar__E0DvH !w-full&quot;]/div[@class=&quot;css-1to9m9p ant-app&quot;]/main[@class=&quot;bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark min-h-full min-w-full&quot;]/section[@class=&quot;min-h-screen&quot;]/section[@class=&quot;w-full h-fit min-h-screen bg-surfaceBaseBg1Light dark:bg-surfaceBaseBg1Dark&quot;]/section[@class=&quot;container mt-10 px-4 xl:px-0 mb-4 lg:mb-0&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;col-span-12 lg:col-span-9&quot;]/div[3]/div[1]/div[@class=&quot;ant-collapse ant-collapse-icon-position-start bg-transparent border-0 css-nn18zd&quot;]/div[@class=&quot;ant-collapse-item ant-collapse-item-disabled !border !border-borderBaseGreylightLight dark:!border-borderBaseGreylightDark overflow-hidden rounded-lg  [&amp;_.ant-collapse-content-box]:p-0 rounded-t-none mb-4 [&amp;>*]:!cursor-default overflow-hidden&quot;]/div[@class=&quot;ant-collapse-header ant-collapse-collapsible-disabled&quot;]/span[@class=&quot;ant-collapse-header-text&quot;]/div[@class=&quot;w-full&quot;]/section[@class=&quot;grid grid-cols-12 lg:flex w-full justify-between items-center gap-2 p-3&quot;]/form[@class=&quot;col-span-12 flex flex-col items-start justify-center gap-3&quot;]/section[@class=&quot;flex flex-wrap lg:flex-nowrap gap-3 justify-normal lg:justify-end items-start&quot;]/div[@class=&quot;!w-full lg:max-w-[360px]&quot;]/section[1]/span[@class=&quot;ant-input-group-wrapper ant-input-group-wrapper-outlined css-1wgm7nn rounded-md placeholder:text-textBaseGraymediumLight dark:placeholder:text-textBaseGraymediumDark placeholder:font-normal bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark [&amp;_.ant-input-group-addon]:!overflow-hidden [&amp;_.ant-input-group-addon]:!bg-surfaceBaseWhiteLight [&amp;_.ant-input-group-addon]:dark:!bg-surfaceBaseWhiteDark disabled:bg-surfaceBaseGreylightLight dark:disabled:bg-surfaceBaseGreylightDark h-12 !font-normal disabled:bg-transparent dark:disabled:bg-transparent [&amp;_.ant-input-group-addon]:px-2 [&amp;_.ant-input-group-addon]:py-2 [&amp;_.ant-input-disabled]:bg-surfaceBaseGreylightLight dark:[&amp;_.ant-input-disabled]:bg-surfaceBaseGreylightDark [&amp;_.ant-select-disabled]:bg-surfaceBaseGreylightLight dark:[&amp;_.ant-select-disabled]:bg-surfaceBaseGreylightDark [&amp;_.ant-input-group-wrapper-disabled&amp;_.ant-input-group-addon]:!bg-surfaceBaseGreylightLight dark:[.ant-input-group-wrapper-disabled&amp;_.ant-input-group-addon]:!bg-surfaceBaseGreylightDark [&amp;_.ant-input-group-addon]:!border-borderBaseGreymediumLight dark:[&amp;_.ant-input-group-addon]:!border-borderBaseGreymediumDark&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group css-1wgm7nn&quot;]/span[@class=&quot;ant-input-group-addon&quot;]/div[@class=&quot;ant-select ant-select-outlined bg-surfaceBaseWhiteLight dark:bg-surfaceBaseWhiteDark rounded css-lvxurh ant-select-focused ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-wrap&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>b62088fc-b96f-4662-b104-658209a65b2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='tailwind-core']/body/div/main/section/section/section[2]/div/div/div[3]/div/div/div[2]/div/span/div/section/form/section/div[2]/section/span/span/span/div/div/span/span[2]</value>
+      <webElementGuid>cbdf0467-c251-4dd6-8c79-2a998a1d3b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::span[6]</value>
+      <webElementGuid>9c0068a0-c352-4776-8a40-5345cb6b4cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email ID'])[1]/following::span[6]</value>
+      <webElementGuid>b619b4bb-10c0-4145-9a76-fec902652f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::span[3]</value>
+      <webElementGuid>00a584b0-8321-4380-b526-f4fdc6e1227a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]</value>
+      <webElementGuid>1f1cbbfb-a9d8-4d6c-a2f5-831106dfcdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '+1' or . = '+1')]</value>
+      <webElementGuid>c2f5635c-62c1-4b2e-a25b-45804ed8edfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

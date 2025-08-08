@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Room</name>
+   <tag></tag>
+   <elementGuidId>56712d28-7ce9-44ff-955c-04fc10789559</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='hotel-overview']/div[2]/div/section/div/section/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Select Room&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8427e01f-0d8e-43f7-93b9-01fa3abd7474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-textBaseWhiteLight</value>
+      <webElementGuid>ec42880b-394e-4aa2-bec1-661d18b38823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Room</value>
+      <webElementGuid>62f155ca-0422-44f9-ad26-36b944635ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hotel-overview&quot;)/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;md:mb-4 flex flex-col sm:flex-row sm:items-end justify-between&quot;]/section[@class=&quot;transition-opacity duration-200  hidden sm:block&quot;]/div[@class=&quot;flex items-center gap-4 justify-end&quot;]/section[@class=&quot;transition-opacity duration-200  block lg:hidden&quot;]/button[@class=&quot;ant-btn css-fbugsh ant-btn-primary ant-btn-color-primary ant-btn-variant-solid shadow-none   !w-[130px] !h-12 px-4 py-3 text-base flex items-center justify-center&quot;]/span[@class=&quot;text-textBaseWhiteLight&quot;]</value>
+      <webElementGuid>ce413bc8-e6f7-4898-b75d-08993bcb7c6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='hotel-overview']/div[2]/div/section/div/section/button/span</value>
+      <webElementGuid>b537d9ee-9c98-4db1-9a65-98c9a69accde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/following::span[3]</value>
+      <webElementGuid>520d0c15-21f7-412b-a82f-76b94680fd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotel'])[2]/following::span[5]</value>
+      <webElementGuid>6630843b-721b-4ae7-9e13-da9aa7a59501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professional-grade sanitizing services'])[1]/preceding::span[2]</value>
+      <webElementGuid>af664f92-771d-4658-9d48-a007a6bceb25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Room']/parent::*</value>
+      <webElementGuid>b450c073-8c06-48be-b8b1-845348c78bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/section/button/span</value>
+      <webElementGuid>a1af9561-9c2a-43ea-8246-a7f3f1ed86b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select Room' or . = 'Select Room')]</value>
+      <webElementGuid>a1783341-6e5f-480b-96d1-122f60ffe8c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
